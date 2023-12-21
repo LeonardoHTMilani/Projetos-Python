@@ -1,2 +1,2 @@
 # Projetos-Python
- Projetos em linguagem Pyhton
+ Projetos de programação na linguaguem de Pyhton
